@@ -6,7 +6,8 @@ const API_KEY = 'AIzaSyDZ57pcmkRwqo3Rei23l3ZwFDr9aKpv7i4';
 
 const App = () => {
   return (
-    <div>Telescopes are Time Machines
+    <div>
+      <h1 style={{ color: 'blue' }}>Telescopes are Time Machines</h1>
       <SearchBar />
     </div>
   );
